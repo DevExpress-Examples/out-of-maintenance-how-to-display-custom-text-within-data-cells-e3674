@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/DXPivotGrid_CustomFormatting/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/DXPivotGrid_CustomFormatting/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/DXPivotGrid_CustomFormatting/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXPivotGrid_CustomFormatting/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/DXPivotGrid_CustomFormatting/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DXPivotGrid_CustomFormatting/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to Display Custom Text within Data Cells
